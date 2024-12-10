@@ -8,6 +8,10 @@ am-a-coda
 
 Lorem ipsum
 
+.. warning:
+
+   UNDER CONSTRUCTION
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
