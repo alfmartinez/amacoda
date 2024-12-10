@@ -12,7 +12,7 @@ Lorem ipsum
 
    UNDER CONSTRUCTION
 
-.. image:: 0.png
+.. image:: _static/0.png
 
 Coming soon...
 
